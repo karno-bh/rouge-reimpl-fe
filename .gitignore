@@ -33,6 +33,8 @@ bower_components
 build/Release
 
 # Dependency directories
+rouge-reimpl-fe/node_modules/
+rouge-reimpl-fe/build/
 node_modules/
 jspm_packages/
 
